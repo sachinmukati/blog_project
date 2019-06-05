@@ -1,0 +1,30 @@
+.content{
+    width: 60%;
+    float: left;
+    padding: 0 0 0 30px;
+    background-color:orange;
+
+
+
+}
+.sidebar{
+    width: 40%;
+    float: right;
+    padding: 10px;
+    background:gray;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid #bbbbbb;
+    padding-bottom: 10px;
+}
+body{
+    color: red;
+    background: orange;
+}
+#date{
+    color: black;
+    font-size: 12px;
+    font-style: italic;
+}
